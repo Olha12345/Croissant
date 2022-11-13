@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+.nav {
+  justify-content: space-around;
+}
+.row {
+  display: flex;
+
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+.mail,
+.container,
+p {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.mail {
+  text-align: center;
+}
