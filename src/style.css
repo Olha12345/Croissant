@@ -1,7 +1,7 @@
-body {
+.body {
   background-color: rgb(219, 189, 149);
 }
-h1 {
+.titel {
   text-align: center;
   padding-top: 20px;
 }
@@ -15,17 +15,18 @@ h1 {
   margin-top: 40px;
 }
 .mail,
-.container,
-p {
+.container {
   padding-top: 40px;
   padding-bottom: 40px;
 }
-.mail {
+.mail,
+.text {
   text-align: center;
 }
-a {
+.link {
   text-decoration: none;
+  color: black;
 }
-a:hover {
-  color: rgb(66, 63, 63);
+.link:hover {
+  color: rgb(93, 89, 89);
 }
