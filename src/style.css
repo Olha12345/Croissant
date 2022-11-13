@@ -1,5 +1,5 @@
 body {
-  background-color: blanchedalmond;
+  background-color: antiquewhite;
 }
 h1 {
   text-align: center;
@@ -22,4 +22,10 @@ p {
 }
 .mail {
   text-align: center;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(66, 63, 63);
 }
